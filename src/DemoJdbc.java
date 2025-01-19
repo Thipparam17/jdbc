@@ -5,6 +5,7 @@ import static java.lang.Class.forName;
 public class DemoJdbc {
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         /*
+        steps
         import packages
         load and register
         create connection
